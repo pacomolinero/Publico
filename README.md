@@ -1,2 +1,2 @@
 # Publico
-Webapp for ubuntu phonbe
+Webapp for ubuntu phone
