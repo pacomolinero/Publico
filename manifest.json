@@ -1,0 +1,15 @@
+{
+    "name": "mpublicoes-rml.franciscomol",
+    "description": "Webapp for Diario Público",
+    "architecture": "all",
+    "title": "Diario Público",
+    "hooks": {
+        "Publico": {
+            "apparmor": "Publico.apparmor",
+            "desktop": "Publico.desktop"
+        }
+    },
+    "version": "0.2c",
+    "maintainer": "Paco Molinero <paco@byasl.com>",
+    "framework": "ubuntu-sdk-14.10"
+}

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Público
+Comment=webapp for DiarioPublico
+Type=Application
+Icon=DiarioPublico.png
+Exec=webapp-container --store-session-cookies --webappUrlPatterns=https?://m.publico.es/* http://m.publico.es %u
+Terminal=false
+X-Ubuntu-Touch=true
+X-Ubuntu-Single-Instance=true
